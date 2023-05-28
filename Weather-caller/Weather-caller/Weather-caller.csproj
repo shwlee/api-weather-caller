@@ -15,4 +15,8 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\api-weather-ref\Weather-API-Ref\Weather-API-Ref\Weather-API-Ref.csproj" />
+    </ItemGroup>
+
 </Project>
